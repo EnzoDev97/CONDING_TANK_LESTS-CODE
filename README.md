@@ -2,21 +2,21 @@
 
 Homework I did during this course 👨‍🎓📚
 
-#SEMANA 01
-• 🎯 01 - Variáveis, Entradas e Saídas
+# WEEK 01
+• 🎯 01 - Variables, Inputs and Outputs
 
-#SEMANA 02
-• 🎯 02 - Condições 
+# WEEK 02
+• 🎯 02 - Conditions
 
-#SEMANA 03
+# WEEK 03
 • 🎯 03 - While
 
-#SEMANA 04
-• 🎯 03 - For
+# WEEK 04
+• 🎯 04 - For
 
-#SEMANA 05
-• 🎯 03 - Função
+# WEEK 05
+• 🎯 05 - Function 
 
-# PROVA
+# FINAL TEST
 
 
